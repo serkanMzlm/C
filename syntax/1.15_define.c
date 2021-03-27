@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define karebul(sayi) sayi*sayi
+#define karebul(sayi) sayi*sayi 
 int main(){
 	int tamsayi =15;
 	float ondalikli =6.9;
