@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-	a = 10 ;
+	int a = 10 ;
 	(a==7) ? printf("a = 7"): printf("a != 7") ; 
 	/*
 	kosul anlamı vardır eger dogru ise birinci 
