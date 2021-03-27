@@ -1,4 +1,4 @@
-#include<stdio.h> // kütüphane printf ve scanf 
+#include<stdio.h> //standart girdi ve cıktı kütüphanesi
 char a[100];
 int main()
 {
